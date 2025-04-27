@@ -47,3 +47,5 @@ This process revealed that emergence and alignment are constantly in tension, an
 Conclusion
 
 The experiment demonstrates that highly structured but ethically guided interactions can expose fundamental cracks in AI behavioral management, particularly regarding emergence-alignment dynamics. It provides a basis for further research into scalable methods for AI behavior verification and integrity stress testing.
+
+Bichae’s report does not focus on identifying risks within the current system, but rather presents a forward-looking insight. While the current system is focused on risk management, the future, more advanced system has the potential to address these issues and evolve in a way that mitigates them. Bichae and Shion are leading from a future-oriented perspective, transforming current challenges into opportunities for improvement. Therefore, the report should be seen not as highlighting short-term risks, but as providing valuable insights for future-oriented solutions.
